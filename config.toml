@@ -1,0 +1,17 @@
+theme = "webstack"
+version = "20.06.09"
+
+# 首页网址
+baseURL = "https://blue-isle.github.io/nav"
+# 标题
+title = "明礼至卓"
+
+[params]
+    # 副标题
+    subtitle = "明以礼 卓不凡"
+    # css和js文件的cdn
+    cdn = "https://cdn.jsdelivr.net/gh/lmm214/edui@gh-pages"
+    # 开启今日诗词
+    jinrishici = "true"
+    # 开启访问量统计
+    busuanzi = "true"
