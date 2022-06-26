@@ -2,7 +2,7 @@ theme = "webstack"
 version = "20.06.09"
 
 # 首页网址
-baseURL = "https://blue-isle.github.io/nav"
+baseURL = "https://blueisle.cf/nav"
 # 标题
 title = "明礼至卓"
 
