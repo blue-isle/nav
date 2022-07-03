@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blueisle.cf/nav/about/</loc>
+    <loc>https://s.blueisle.cf/about/</loc>
     <lastmod>2020-03-19T12:41:32+08:00</lastmod>
   </url><url>
-    <loc>https://blueisle.cf/nav/categories/</loc>
+    <loc>https://s.blueisle.cf/categories/</loc>
   </url><url>
-    <loc>https://blueisle.cf/nav/tags/</loc>
+    <loc>https://s.blueisle.cf/tags/</loc>
   </url><url>
-    <loc>https://blueisle.cf/nav/</loc>
+    <loc>https://s.blueisle.cf/</loc>
   </url>
 </urlset>
